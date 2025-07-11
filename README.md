@@ -73,6 +73,15 @@ g++ bill_splitter.cpp -o bill
 ./bill
 
 
+
+
+ Author
+Mesum Mukhtar
+🎓 Student at University of Baltistan
+📧 mesummukhtar3@gmail.com
+
+⭐️ Found this helpful? Give it a on GitHub and share!
+
 📦 Bill-Splitter-Cpp/
 ├── bill_splitter.cpp
 └── README.md
@@ -84,13 +93,4 @@ g++ bill_splitter.cpp -o bill
 ![Mesum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithMeesum&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Mesum's GitHub Streak](https://streak-stats.demolab.com?user=codewithMeesum&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithMeesum&theme=dark&hide_border=false&layout=compact&langs_count=6&hide=html)
-
- Author
-Mesum Mukhtar
-🎓 Student at University of Baltistan
-📧 mesummukhtar3@gmail.com
-
-⭐️ Found this helpful? Give it a on GitHub and share!
-
-
 
