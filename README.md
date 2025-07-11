@@ -1,5 +1,4 @@
-============================================
-🍽️ Bill Splitter – C++ Project (Plain Text)
+🍽️ Bill Splitter – C++ Project 
 
 
 Effortlessly calculate how much each person needs to pay, including tip — perfect for dining out with friends!
